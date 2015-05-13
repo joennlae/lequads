@@ -217,6 +217,6 @@ pip-log.txt
 /frameworks
 /tools
 .cocos-project.json
-CMakeList.txt
+CMakeLists.txt
 manifest.webapp
 mongoose-free-5.5.exe
